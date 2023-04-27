@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 1vh;
 }
 
 .container{
@@ -19,4 +19,5 @@
     width: 90px;
     height: 90px;
     background-color: orange;
+    font-size: 4vh;
 }
