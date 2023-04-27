@@ -12,6 +12,10 @@
 }
 
 .item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
     width: 90px;
     height: 90px;
     background-color: orange;
